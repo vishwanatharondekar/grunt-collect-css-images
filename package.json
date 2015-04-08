@@ -1,23 +1,23 @@
 {
   "name": "grunt-collect-css-images",
   "description": "The best Grunt plugin ever.",
-  "version": "0.1.1",
-  "homepage": "https://github.com/vishwanath/collect-css-images",
+  "version": "0.1.2",
+  "homepage": "https://github.com/vishwanatharondekar/grunt-collect-css-images",
   "author": {
     "name": "Vishwanath Arondekar",
     "email": "vishwanatharondekar@gmail.com"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/vishwanath/collect-css-images.git"
+    "url": "git://github.com/vishwanatharondekar/grunt-collect-css-images.git"
   },
   "bugs": {
-    "url": "https://github.com/vishwanath/collect-css-images/issues"
+    "url": "https://github.com/vishwanatharondekar/grunt-collect-css-images/issues"
   },
   "licenses": [
     {
       "type": "MIT",
-      "url": "https://github.com/vishwanath/collect-css-images/blob/master/LICENSE-MIT"
+      "url": "https://github.com/vishwanatharondekar/grunt-collect-css-images/blob/master/LICENSE-MIT"
     }
   ],
   "engines": {
